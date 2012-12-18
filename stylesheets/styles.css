@@ -789,7 +789,7 @@ section img {
 }
 
 section p {
-  padding: 0px 30px 0px 50px;
+  margin-left: 20px;
 }
 section #title {
   border: 0;
