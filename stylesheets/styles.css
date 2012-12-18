@@ -832,6 +832,13 @@ section #about h1 {
   line-height: 30px;
 }
 
+section #about img {
+  max-width: 100%;
+  float: left;
+  border-left:30px;
+  border-right:30px;
+}
+
 @media print, screen and (max-width: 720px) {
   #title .credits {
     display: block;
