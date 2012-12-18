@@ -790,7 +790,7 @@ section img {
 }
 
 section p {
-
+  padding: 30px 0px 50px 0px;
 }
 section #title {
   border: 0;
