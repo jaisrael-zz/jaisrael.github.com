@@ -824,7 +824,7 @@ section #title .credits.right {
   float: right;
 }
 
-section #about h1 {
+section #info h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 24px;
@@ -832,7 +832,7 @@ section #about h1 {
   line-height: 20px;
 }
 
-section #about img {
+section #info img {
   max-width: 100%;
   float: left;
   border-left:30px;
