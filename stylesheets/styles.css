@@ -786,8 +786,8 @@ section {
 section img {
   max-width: 100%;
   float: left;
-  border-left:20px;
-  border-right:20px;
+  border-left:30px;
+  border-right:30px;
 }
 
 section #title {
