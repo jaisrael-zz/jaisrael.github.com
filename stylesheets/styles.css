@@ -786,10 +786,12 @@ section {
 section img {
   max-width: 100%;
   float: left;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 section p {
-  padding-left: 20px;
+  
 }
 section #title {
   border: 0;
