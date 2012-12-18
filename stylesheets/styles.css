@@ -827,9 +827,9 @@ section #title .credits.right {
 section #about h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 32px;
+  font-size: 24px;
   text-align: center;
-  line-height: 30px;
+  line-height: 20px;
 }
 
 section #about img {
