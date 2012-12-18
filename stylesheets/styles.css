@@ -677,8 +677,7 @@ td {
 }
 
 hr {
-  border-left: 20px;
-  border-right: 20px;
+  border: 0;
   outline: none;
   height: 3px;
   background: transparent url("../images/hr.gif") center center repeat-x;
